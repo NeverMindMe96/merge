@@ -1,1 +1,2 @@
-This change is made before git merge
+hehe Boi ,This change is made before git merge
+Changes is made after git merge
